@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-klcg-wayne" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageSources\Scenery\airport-klcg-wayne\scenery\KLCG.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-klcg-wayne" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

@@ -1,0 +1,10 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "KLCG",
+      "latitude": 42.24160552024841,
+      "longitude": -96.98227241635323
+    }
+  ]
+}

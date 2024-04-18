@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\tabletopandroid-airport-klcg-wayne</OutputDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-klcg-wayne\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>

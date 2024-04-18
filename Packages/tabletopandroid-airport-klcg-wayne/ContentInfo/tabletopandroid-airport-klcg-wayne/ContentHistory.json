@@ -1,0 +1,10 @@
+{
+  "package-name": "tabletopandroid-airport-klcg-wayne",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KLCG",
+      "revision": 1
+    }
+  ]
+}

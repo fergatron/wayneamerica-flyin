@@ -1,341 +1,376 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject parentGroupID="5" groupIndex="8" lat="42.23761205193296" lon="-96.98490657340959" alt="0.00000000000000" pitch="0.000273" bank="-0.000273" heading="174.402378" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="6" groupIndex="8" lat="42.23761205193296" lon="-96.98490657340959" alt="0.00000000000000" pitch="0.000273" bank="-0.000273" heading="174.402378" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 2)" parentGroupID="5" groupIndex="15" lat="42.23764279649296" lon="-96.98504924536242" alt="0.00000000000000" pitch="0.002677" bank="-0.002677" heading="-138.689081" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 2)" parentGroupID="6" groupIndex="15" lat="42.23764279649296" lon="-96.98504924536242" alt="0.00000000000000" pitch="0.002677" bank="-0.002677" heading="-138.689081" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy)" parentGroupID="5" groupIndex="12" lat="42.23767186239590" lon="-96.98478979103490" alt="0.00000000000000" pitch="0.001249" bank="-0.001249" heading="126.520672" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy)" parentGroupID="6" groupIndex="12" lat="42.23767186239590" lon="-96.98478979103490" alt="0.00000000000000" pitch="0.001249" bank="-0.001249" heading="126.520672" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 1)" parentGroupID="5" groupIndex="11" lat="42.23773043684924" lon="-96.98511652048678" alt="0.00000000000000" pitch="0.001701" bank="-0.001701" heading="-90.807375" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 1)" parentGroupID="6" groupIndex="11" lat="42.23773043684924" lon="-96.98511652048678" alt="0.00000000000000" pitch="0.001701" bank="-0.001701" heading="-90.807375" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy)" parentGroupID="5" groupIndex="10" lat="42.23777082061253" lon="-96.98475341480683" alt="0.00000000000000" pitch="0.000499" bank="-0.000499" heading="90.620491" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy)" parentGroupID="6" groupIndex="10" lat="42.23777082061253" lon="-96.98475341480683" alt="0.00000000000000" pitch="0.000499" bank="-0.000499" heading="90.620491" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 1)" parentGroupID="5" groupIndex="13" lat="42.23783062083397" lon="-96.98508216872392" alt="0.00000000000000" pitch="0.002451" bank="-0.002451" heading="-54.907194" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 1)" parentGroupID="6" groupIndex="13" lat="42.23783062083397" lon="-96.98508216872392" alt="0.00000000000000" pitch="0.002451" bank="-0.002451" heading="-54.907194" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 1)" parentGroupID="5" groupIndex="14" lat="42.23786014474616" lon="-96.98482527866032" alt="0.00000000000000" pitch="0.001475" bank="-0.001475" heading="42.738785" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy 1)" parentGroupID="6" groupIndex="14" lat="42.23786014474616" lon="-96.98482527866032" alt="0.00000000000000" pitch="0.001475" bank="-0.001475" heading="42.738785" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_Red-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy)" parentGroupID="5" groupIndex="9" lat="42.23788396179433" lon="-96.98496138509219" alt="0.00000000000000" pitch="0.001475" bank="-0.001475" heading="-7.025488" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_Red (copy)" parentGroupID="6" groupIndex="9" lat="42.23788396179433" lon="-96.98496138509219" alt="0.00000000000000" pitch="0.001475" bank="-0.001475" heading="-7.025488" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7514C71B-07C0-49AF-8880-7CFE6C02D670}" scale="1.849127"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject parentGroupID="5" groupIndex="1" lat="42.23761405408616" lon="-96.98497829295984" alt="0.00000000000000" pitch="0.000342" bank="-0.000342" heading="-160.447810" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="6" groupIndex="1" lat="42.23761405408616" lon="-96.98497829295984" alt="0.00000000000000" pitch="0.000342" bank="-0.000342" heading="-160.447810" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy)" parentGroupID="5" groupIndex="4" lat="42.23763367324229" lon="-96.98483988926837" alt="0.00000000000000" pitch="0.001318" bank="-0.001318" heading="151.670484" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy)" parentGroupID="6" groupIndex="4" lat="42.23763367324229" lon="-96.98483988926837" alt="0.00000000000000" pitch="0.001318" bank="-0.001318" heading="151.670484" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 2)" parentGroupID="5" groupIndex="6" lat="42.23767706134759" lon="-96.98509626142004" alt="0.00000000000000" pitch="0.002746" bank="-0.002746" heading="-117.785727" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 2)" parentGroupID="6" groupIndex="6" lat="42.23767706134759" lon="-96.98509626142004" alt="0.00000000000000" pitch="0.002746" bank="-0.002746" heading="-117.785727" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy)" parentGroupID="5" groupIndex="3" lat="42.23771783766299" lon="-96.98475374293783" alt="0.00000000000000" pitch="0.000568" bank="-0.000568" heading="115.770303" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy)" parentGroupID="6" groupIndex="3" lat="42.23771783766299" lon="-96.98475374293783" alt="0.00000000000000" pitch="0.000568" bank="-0.000568" heading="115.770303" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 1)" parentGroupID="5" groupIndex="2" lat="42.23778464319192" lon="-96.98511889652922" alt="0.00000000000000" pitch="0.002643" bank="-0.002643" heading="-70.274703" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 1)" parentGroupID="6" groupIndex="2" lat="42.23778464319192" lon="-96.98511889652922" alt="0.00000000000000" pitch="0.002643" bank="-0.002643" heading="-70.274703" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 1)" parentGroupID="5" groupIndex="7" lat="42.23782501991793" lon="-96.98477942604143" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="63.642139" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 1)" parentGroupID="6" groupIndex="7" lat="42.23782501991793" lon="-96.98477942604143" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="63.642139" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 1)" parentGroupID="5" groupIndex="5" lat="42.23786866993198" lon="-96.98503282475359" alt="0.00000000000000" pitch="0.002520" bank="-0.002520" heading="-29.757382" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy 1)" parentGroupID="6" groupIndex="5" lat="42.23786866993198" lon="-96.98503282475359" alt="0.00000000000000" pitch="0.002520" bank="-0.002520" heading="-29.757382" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
 	<!--SceneryObject name: Airport_PlasticBarrier_Type3_Single_White-->
-	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy)" parentGroupID="5" lat="42.23788589906181" lon="-96.98489314817579" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="18.124324" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Airport_PlasticBarrier_Type3_Single_White (copy)" parentGroupID="6" lat="42.23788589906181" lon="-96.98489314817579" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="18.124324" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{48ED0426-B29B-44AC-B865-D2DCF2714D47}" scale="1.849126"/>
 	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Right (copy 1)" parentGroupID="11" groupIndex="7" lat="42.24024210402058" lon="-96.98536256560546" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Left (copy 1)" parentGroupID="11" groupIndex="3" lat="42.24046888445458" lon="-96.98506477640707" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Right (copy)" parentGroupID="11" groupIndex="4" lat="42.24060659681650" lon="-96.98585240330050" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Left (copy)" parentGroupID="11" lat="42.24083063268821" lon="-96.98555945213459" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Right (copy)" parentGroupID="11" groupIndex="6" lat="42.24096677289904" lon="-96.98634989489359" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Left (copy)" parentGroupID="11" groupIndex="2" lat="42.24119355333304" lon="-96.98605210569521" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Right" parentGroupID="11" groupIndex="5" lat="42.24133126569496" lon="-96.98683973258863" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Full-->
+	<SceneryObject displayName="Cone_Full Left" parentGroupID="11" groupIndex="1" lat="42.24155530156667" lon="-96.98654678142273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="9" groupIndex="1" lat="42.23628754589478" lon="-96.98273686295371" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="5" groupIndex="1" lat="42.23628754589478" lon="-96.98273686295371" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L" parentGroupID="9" lat="42.23628910004019" lon="-96.98277395636961" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L" parentGroupID="5" lat="42.23628910004019" lon="-96.98277395636961" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="9" groupIndex="18" lat="42.23628976987355" lon="-96.98279927557259" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="5" groupIndex="18" lat="42.23628976987355" lon="-96.98279927557259" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 3)" parentGroupID="9" groupIndex="16" lat="42.23629065166730" lon="-96.98282615459341" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 3)" parentGroupID="5" groupIndex="16" lat="42.23629065166730" lon="-96.98282615459341" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="9" groupIndex="13" lat="42.23629101844202" lon="-96.98285240579763" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="5" groupIndex="13" lat="42.23629101844202" lon="-96.98285240579763" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="9" groupIndex="12" lat="42.23629214200989" lon="-96.98288103597280" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="5" groupIndex="12" lat="42.23629214200989" lon="-96.98288103597280" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 3)" parentGroupID="9" groupIndex="17" lat="42.23629307479563" lon="-96.98290869867193" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 3)" parentGroupID="5" groupIndex="17" lat="42.23629307479563" lon="-96.98290869867193" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="9" groupIndex="15" lat="42.23629395658993" lon="-96.98293557769274" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="5" groupIndex="15" lat="42.23629395658993" lon="-96.98293557769274" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="9" groupIndex="14" lat="42.23629432336469" lon="-96.98296182889685" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="5" groupIndex="14" lat="42.23629432336469" lon="-96.98296182889685" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy)" parentGroupID="9" groupIndex="11" lat="42.23629544693252" lon="-96.98299045907221" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy)" parentGroupID="5" groupIndex="11" lat="42.23629544693252" lon="-96.98299045907221" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="9" groupIndex="3" lat="42.23630666247826" lon="-96.98273611408176" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="5" groupIndex="3" lat="42.23630666247826" lon="-96.98273611408176" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R" parentGroupID="9" groupIndex="2" lat="42.23630821662346" lon="-96.98277320749783" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344298" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R" parentGroupID="5" groupIndex="2" lat="42.23630821662346" lon="-96.98277320749783" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344298" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 3)" parentGroupID="9" groupIndex="6" lat="42.23630910584390" lon="-96.98279862469309" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 3)" parentGroupID="5" groupIndex="6" lat="42.23630910584390" lon="-96.98279862469309" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="9" groupIndex="7" lat="42.23630998763890" lon="-96.98282550371368" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="5" groupIndex="7" lat="42.23630998763890" lon="-96.98282550371368" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="9" groupIndex="9" lat="42.23631035441277" lon="-96.98285175491786" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="5" groupIndex="9" lat="42.23631035441277" lon="-96.98285175491786" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R" parentGroupID="9" groupIndex="19" lat="42.23631147798118" lon="-96.98288038509325" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R" parentGroupID="5" groupIndex="19" lat="42.23631147798118" lon="-96.98288038509325" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="9" groupIndex="5" lat="42.23631241076691" lon="-96.98290804779241" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 2)" parentGroupID="5" groupIndex="5" lat="42.23631241076691" lon="-96.98290804779241" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="9" groupIndex="8" lat="42.23631329256057" lon="-96.98293492681282" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 1)" parentGroupID="5" groupIndex="8" lat="42.23631329256057" lon="-96.98293492681282" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy)" parentGroupID="9" groupIndex="10" lat="42.23631365933552" lon="-96.98296117801712" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy)" parentGroupID="5" groupIndex="10" lat="42.23631365933552" lon="-96.98296117801712" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy)" parentGroupID="9" groupIndex="4" lat="42.23631478290365" lon="-96.98298980819234" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy)" parentGroupID="5" groupIndex="4" lat="42.23631478290365" lon="-96.98298980819234" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-178.344299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="8" groupIndex="4" lat="42.23916228435495" lon="-96.98235345573310" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="4" groupIndex="4" lat="42.23916228435495" lon="-96.98235345573310" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="8" groupIndex="5" lat="42.23917315637053" lon="-96.98233008694638" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="4" groupIndex="5" lat="42.23917315637053" lon="-96.98233008694638" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="8" groupIndex="7" lat="42.23917867588034" lon="-96.98236727389580" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="4" groupIndex="7" lat="42.23917867588034" lon="-96.98236727389580" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="8" groupIndex="3" lat="42.23918298114268" lon="-96.98230847533678" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="4" groupIndex="3" lat="42.23918298114268" lon="-96.98230847533678" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="8" groupIndex="6" lat="42.23918954789591" lon="-96.98234390510908" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="4" groupIndex="6" lat="42.23918954789591" lon="-96.98234390510908" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="8" groupIndex="2" lat="42.23919482422499" lon="-96.98228138937274" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="4" groupIndex="2" lat="42.23919482422499" lon="-96.98228138937274" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="8" groupIndex="1" lat="42.23919922990274" lon="-96.98232204884422" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158948" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="4" groupIndex="1" lat="42.23919922990274" lon="-96.98232204884422" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158948" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="8" lat="42.23921107298459" lon="-96.98229496288516" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="4" lat="42.23921107298459" lon="-96.98229496288516" alt="0.00000000000000" pitch="0.002732" bank="-0.002732" heading="148.158947" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="3" lat="42.31384693847149" lon="-96.84471496039241" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="12" lat="42.24150118718097" lon="-96.98661456126655" alt="0.00000000000000" pitch="0.000785" bank="-0.000785" heading="123.018701" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Cessna 152 Asobo WBSim Taildragger Black" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject parentGroupID="8" groupIndex="3" lat="42.31384693847149" lon="-96.84471496039241" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="3" groupIndex="6" lat="42.31439553936366" lon="-96.82986284242627" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="8" groupIndex="6" lat="42.31439553936366" lon="-96.82986284242627" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="3" groupIndex="5" lat="42.31624209865581" lon="-96.83480815060631" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="8" groupIndex="5" lat="42.31624209865581" lon="-96.83480815060631" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="3" groupIndex="4" lat="42.31728854289017" lon="-96.83949700603559" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="8" groupIndex="4" lat="42.31728854289017" lon="-96.83949700603559" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="3" groupIndex="7" lat="42.32052672606038" lon="-96.82778570616897" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="8" groupIndex="7" lat="42.32052672606038" lon="-96.82778570616897" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="3" groupIndex="13" lat="42.32370864790214" lon="-96.81027435418494" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="8" groupIndex="13" lat="42.32370864790214" lon="-96.81027435418494" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 4)" parentGroupID="3" groupIndex="8" lat="42.32558480322724" lon="-96.82573590547317" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 4)" parentGroupID="8" groupIndex="8" lat="42.32558480322724" lon="-96.82573590547317" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 7)" parentGroupID="3" groupIndex="10" lat="42.32608757463407" lon="-96.80553596543673" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 7)" parentGroupID="8" groupIndex="10" lat="42.32608757463407" lon="-96.80553596543673" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" lat="42.32765142811301" lon="-96.85713142085633" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" lat="42.32765142811301" lon="-96.85713142085633" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="3" groupIndex="18" lat="42.32770536508531" lon="-96.88255730564325" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="8" groupIndex="18" lat="42.32770536508531" lon="-96.88255730564325" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 5)" parentGroupID="3" groupIndex="9" lat="42.32912392432359" lon="-96.81984378312016" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 5)" parentGroupID="8" groupIndex="9" lat="42.32912392432359" lon="-96.81984378312016" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="3" groupIndex="17" lat="42.32921326537537" lon="-96.87531013702325" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="8" groupIndex="17" lat="42.32921326537537" lon="-96.87531013702325" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="3" groupIndex="1" lat="42.33217440293733" lon="-96.85029065571436" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="8" groupIndex="1" lat="42.33217440293733" lon="-96.85029065571436" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="3" groupIndex="2" lat="42.33311505245621" lon="-96.84546883735007" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="8" groupIndex="2" lat="42.33311505245621" lon="-96.84546883735007" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="3" groupIndex="14" lat="42.34009247160844" lon="-96.85965683042180" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="8" groupIndex="14" lat="42.34009247160844" lon="-96.85965683042180" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="11" lat="42.34239163281926" lon="-96.82500006225617" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" groupIndex="11" lat="42.34239163281926" lon="-96.82500006225617" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="3" groupIndex="16" lat="42.34343147564618" lon="-96.85357247510896" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="8" groupIndex="16" lat="42.34343147564618" lon="-96.85357247510896" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="3" groupIndex="15" lat="42.34347264648019" lon="-96.84864878838469" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="8" groupIndex="15" lat="42.34347264648019" lon="-96.84864878838469" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 8)" parentGroupID="3" groupIndex="32" lat="42.34703939985491" lon="-96.87039786508930" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 8)" parentGroupID="8" groupIndex="32" lat="42.34703939985491" lon="-96.87039786508930" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 7)" parentGroupID="3" groupIndex="30" lat="42.35347190987857" lon="-96.86473158212917" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 7)" parentGroupID="8" groupIndex="30" lat="42.35347190987857" lon="-96.86473158212917" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="3" groupIndex="27" lat="42.35625298913193" lon="-96.86001294948056" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="8" groupIndex="27" lat="42.35625298913193" lon="-96.86001294948056" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 5)" parentGroupID="3" groupIndex="33" lat="42.35680262719261" lon="-96.85474568673062" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 5)" parentGroupID="8" groupIndex="33" lat="42.35680262719261" lon="-96.85474568673062" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 4)" parentGroupID="3" groupIndex="34" lat="42.35886215983066" lon="-96.85102990897863" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 4)" parentGroupID="8" groupIndex="34" lat="42.35886215983066" lon="-96.85102990897863" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="31" lat="42.36080295482106" lon="-96.80066767279335" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" groupIndex="31" lat="42.36080295482106" lon="-96.80066767279335" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="12" lat="42.36382408102433" lon="-96.83530275244385" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" groupIndex="12" lat="42.36382408102433" lon="-96.83530275244385" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="3" groupIndex="29" lat="42.36407965737063" lon="-96.78751773671587" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="8" groupIndex="29" lat="42.36407965737063" lon="-96.78751773671587" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="28" lat="42.36727006832418" lon="-96.79613778890585" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" groupIndex="28" lat="42.36727006832418" lon="-96.79613778890585" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="37" lat="42.36801714004277" lon="-96.86530989035590" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" groupIndex="37" lat="42.36801714004277" lon="-96.86530989035590" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="3" groupIndex="36" lat="42.36967075683404" lon="-96.85872495847740" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy)" parentGroupID="8" groupIndex="36" lat="42.36967075683404" lon="-96.85872495847740" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="3" groupIndex="35" lat="42.37055506375861" lon="-96.84980779153526" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 2)" parentGroupID="8" groupIndex="35" lat="42.37055506375861" lon="-96.84980779153526" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="3" groupIndex="20" lat="42.37075260194906" lon="-96.84461397193243" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 3)" parentGroupID="8" groupIndex="20" lat="42.37075260194906" lon="-96.84461397193243" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="3" groupIndex="19" lat="42.37117953375934" lon="-96.85438067103408" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 1)" parentGroupID="8" groupIndex="19" lat="42.37117953375934" lon="-96.85438067103408" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 4)" parentGroupID="3" groupIndex="21" lat="42.37231088677814" lon="-96.84013868428362" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 4)" parentGroupID="8" groupIndex="21" lat="42.37231088677814" lon="-96.84013868428362" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="3" groupIndex="25" lat="42.37365396028394" lon="-96.82370599782656" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="8" groupIndex="25" lat="42.37365396028394" lon="-96.82370599782656" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="3" groupIndex="26" lat="42.37417073627127" lon="-96.80837244427624" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="8" groupIndex="26" lat="42.37417073627127" lon="-96.80837244427624" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 5)" parentGroupID="3" groupIndex="22" lat="42.37832613196651" lon="-96.83088681273891" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 5)" parentGroupID="8" groupIndex="22" lat="42.37832613196651" lon="-96.83088681273891" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="3" groupIndex="23" lat="42.38290458420460" lon="-96.82666648221262" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 6)" parentGroupID="8" groupIndex="23" lat="42.38290458420460" lon="-96.82666648221262" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SimObject Windmill (copy 7)" parentGroupID="3" groupIndex="24" lat="42.38400837345605" lon="-96.81599255906342" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SimObject Windmill (copy 7)" parentGroupID="8" groupIndex="24" lat="42.38400837345605" lon="-96.81599255906342" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="4" groupIndex="2" lat="42.23774301269476" lon="-96.98494055852564" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="1" groupIndex="2" lat="42.23774301269476" lon="-96.98494055852564" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	<Polygon parentGroupID="2" groupIndex="1" altitude="435.79326876966525">
+	<Polygon parentGroupID="7" groupIndex="1" altitude="435.79327392578125">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5C5D2E4A-B398-4BD5-A979-83B1F75C4A38}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{56A07AF6-57B8-4F97-A194-95470EF95875}"/>
 		<Attribute name="MaterialFalloff" guid="{C17EBBDE-627D-4585-94F0-7C329CD69C4E}" type="FLOAT32" value="10.000000"/>
-		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15388895"/>
+		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15584223"/>
 		<Vertex lat="42.23917201207097" lon="-96.98402356654337"/>
 		<Vertex lat="42.23743414068662" lon="-96.98725222333826"/>
 		<Vertex lat="42.23739017447340" lon="-96.98719638895335"/>
@@ -352,9 +387,9 @@
 		<Vertex lat="42.23792777323642" lon="-96.98259527949467"/>
 		<Vertex lat="42.23797029964791" lon="-96.98239829316793"/>
 	</Polygon>
-	<Polygon displayName="Polygon (No vegetation)" parentGroupID="2" altitude="435.79326876966525">
+	<Polygon displayName="Polygon (No vegetation)" parentGroupID="7" altitude="435.79327392578125">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9087DCB9-D92C-4C55-A259-78AAB5DE6F52}"/>
-		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="127"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{56A07AF6-57B8-4F97-A194-95470EF95875}"/>
 		<Attribute name="MaterialFalloff" guid="{C17EBBDE-627D-4585-94F0-7C329CD69C4E}" type="FLOAT32" value="1.000000"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
@@ -374,19 +409,35 @@
 		<Vertex lat="42.23792777323642" lon="-96.98259527949467"/>
 		<Vertex lat="42.23797029964791" lon="-96.98239829316793"/>
 	</Polygon>
-	<ExclusionRectangle parentGroupID="10" latitudeMinimum="42.23983758231499" latitudeMaximum="42.23999835296247" longitudeMinimum="-96.98258415018614" longitudeMaximum="-96.98236852839480" excludeAllObjects="TRUE"/>
-	<ExclusionRectangle parentGroupID="10" groupIndex="1" latitudeMinimum="42.24320051639372" latitudeMaximum="42.24386418080817" longitudeMinimum="-96.98118905465952" longitudeMaximum="-96.98065237656479" excludeAllObjects="TRUE"/>
-	<Group displayName="Airport Layout" groupIndex="1" groupID="4" groupGenerated="FALSE"/>
-	<Group displayName="Exclusions" groupIndex="4" groupID="10" groupGenerated="FALSE"/>
-	<Group displayName="Hay Bales" parentGroupID="4" groupID="6" groupGenerated="FALSE"/>
-	<Group displayName="Midfield - Hay" parentGroupID="6" groupIndex="1" groupID="8" groupGenerated="FALSE"/>
-	<Group displayName="New Group 9" parentGroupID="6" groupID="9" groupGenerated="FALSE"/>
-	<Group displayName="Plastic Barriers" parentGroupID="4" groupIndex="1" groupID="5" groupGenerated="FALSE"/>
-	<Group displayName="Polygons" groupIndex="2" groupID="2" groupGenerated="FALSE"/>
-	<Group displayName="Windmills" groupIndex="3" groupID="3" groupGenerated="FALSE"/>
-	<Airport groupID="1" groupGenerated="FALSE" name="Wayne Municipal Airport" ident="KLCG" lat="42.24160552024841" lon="-96.98227241635323" alt="435.45703125000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+	<ExclusionRectangle parentGroupID="2" latitudeMinimum="42.23983758231499" latitudeMaximum="42.23999835296247" longitudeMinimum="-96.98258415018614" longitudeMaximum="-96.98236852839480" excludeAllObjects="TRUE"/>
+	<ExclusionRectangle parentGroupID="2" groupIndex="1" latitudeMinimum="42.24320051639372" latitudeMaximum="42.24386418080817" longitudeMinimum="-96.98118905465952" longitudeMaximum="-96.98065237656479" excludeAllObjects="TRUE"/>
+	<Group displayName="Airport Layout" groupIndex="2" groupID="1" groupGenerated="FALSE"/>
+	<Group displayName="Cones" parentGroupID="10" groupID="11" groupGenerated="FALSE"/>
+	<Group displayName="Exclusions" groupIndex="6" groupID="2" groupGenerated="FALSE"/>
+	<Group displayName="Hay Bales" parentGroupID="1" groupID="3" groupGenerated="FALSE"/>
+	<Group displayName="Midfield - Hay" parentGroupID="3" groupIndex="1" groupID="4" groupGenerated="FALSE"/>
+	<Group displayName="New Group 9" parentGroupID="3" groupID="5" groupGenerated="FALSE"/>
+	<Group displayName="Painted Lines" groupIndex="1" groupID="10" groupGenerated="FALSE"/>
+	<Group displayName="Plastic Barriers" parentGroupID="1" groupIndex="1" groupID="6" groupGenerated="FALSE"/>
+	<Group displayName="Polygons" groupIndex="3" groupID="7" groupGenerated="FALSE"/>
+	<Group displayName="Scaling" groupIndex="5" groupID="12" groupGenerated="FALSE"/>
+	<Group displayName="Windmills" groupIndex="4" groupID="8" groupGenerated="FALSE"/>
+	<Airport groupID="9" groupGenerated="FALSE" name="Wayne Municipal Airport" ident="KLCG" lat="42.24160552024841" lon="-96.98227241635323" alt="435.45703125000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<Group displayName="New Group 13" parentGroupID="9" groupIndex="1" groupID="13" groupGenerated="FALSE"/>
+		<Runway parentGroupID="9" lat="42.24050162449046" lon="-96.98541401504741" alt="435.17953876592219" heading="134.76275634765625" length="682.31610107421875" width="38.30014038085938" patternAltitude="304.79998779296875" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="13" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Coloration red="65" green="85" blue="45" alpha="255" override="TRUE"/>
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="42.24141714285746" lon="-96.98664776268934" alt="435.18737086094916" heading="134.76275634765625"/>
+			<RunwayStart end="SECONDARY" lat="42.23852933060800" lon="-96.98273779566358" alt="435.18977385573089" heading="-45.23729705810547"/>
+		</Runway>
 		<Aprons/>
-		<PaintedElements/>
+		<PaintedElements>
+			<PaintedLine parentGroupID="13" type="DEFAULT" trueAngle="NONE" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}">
+				<Vertex lat="42.24155633012175" lon="-96.98654508255622"/>
+				<Vertex lat="42.24132957935074" lon="-96.98684189908869"/>
+			</PaintedLine>
+		</PaintedElements>
 		<ApronEdgeLights/>
 		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="FALSE" deleteAllRunways="FALSE" deleteAllStarts="FALSE" deleteAllTaxiways="FALSE" deleteAllVectorPlacement="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
 	</Airport>
