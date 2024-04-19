@@ -4,5 +4,7 @@ Removed erroneous windsocks
 Added windsock with barriers
 Added hay bales
 Added polygons to match/hide grass</ReleaseNote>
+	<ReleaseNote Version="0.2.0" Date="2024-4-19">Added more structure to the STOL runway.
+Began to add third-party objects.</ReleaseNote>
 </ReleaseNotes>
 
