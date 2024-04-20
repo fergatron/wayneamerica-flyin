@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{a92370c5-29ee-4d9c-8734-26cf9e63a131}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="cone-yellow.gltf"/>
+	</LODS>
+</ModelInfo>

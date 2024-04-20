@@ -1,7 +1,27 @@
 <CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageSources\Scenery\android-modellib-objects\cone-yellow\cone-yellow.xml" Failure="0">
+		<Package Name="tabletopandroid-android-modellib" Failure="0">
+			<AssetGroup Name="modellib-objects"/>
+		</Package>
+	</File>
 	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo\Thumbnail.jpg" Failure="0">
 		<Package Name="tabletopandroid-airport-klcg-wayne" Failure="0">
 			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageSources\Scenery\android-modellib-objects\cone-yellow\cone-yellow.bin" Failure="0">
+		<Package Name="tabletopandroid-android-modellib" Failure="0">
+			<AssetGroup Name="modellib-objects"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageDefinitions\tabletopandroid-android-modellib\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-android-modellib" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageSources\Scenery\android-modellib-objects\cone-yellow\cone-yellow.gltf" Failure="0">
+		<Package Name="tabletopandroid-android-modellib" Failure="0">
+			<AssetGroup Name="modellib-objects"/>
 		</Package>
 	</File>
 	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\wayneamerica-flyin\PackageSources\Scenery\airport-klcg-wayne\scenery\KLCG.xml" Failure="0">
