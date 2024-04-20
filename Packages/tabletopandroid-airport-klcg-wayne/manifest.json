@@ -4,12 +4,12 @@
   "title": "WayneAmerica Fly In",
   "manufacturer": "",
   "creator": "Marc Ferguson",
-  "package_version": "0.2.0",
+  "package_version": "0.3.0",
   "minimum_game_version": "1.36.2",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.2.0 RELEASED APRIL 19, 2024\\nAdded more structure to the STOL runway.\nBegan to add third-party objects.",
-      "OlderHistory": "VERSION 0.1.0 RELEASED APRIL 18, 2024\\nAdded windmills\nRemoved erroneous windsocks\nAdded windsock with barriers\nAdded hay bales\nAdded polygons to match/hide grass"
+      "LastUpdate": "VERSION 0.3.0 RELEASED APRIL 20, 2024\\nAdded more scenery for gates, airplanes, and vehicles.",
+      "OlderHistory": "VERSION 0.1.0 RELEASED APRIL 18, 2024\\nAdded windmills\nRemoved erroneous windsocks\nAdded windsock with barriers\nAdded hay bales\nAdded polygons to match/hide grass\\nVERSION 0.2.0 RELEASED APRIL 19, 2024\\nAdded more structure to the STOL runway.\nBegan to add third-party objects."
     }
   }
 }
