@@ -548,6 +548,246 @@
 	<SceneryObject displayName="Cone_Full Left" parentGroupID="4" groupIndex="1" lat="42.24155530156667" lon="-96.98654678142273" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{15EF4A10-2875-4F91-8F83-B81DDFB576D2}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy)" parentGroupID="48" groupIndex="1" lat="42.23575722101764" lon="-96.97861287576491" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.205613" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="31" lat="42.23576504013056" lon="-96.97837593142800" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.205613" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="13" lat="42.23576761504771" lon="-96.97814009154119" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-90.153757" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 4)" parentGroupID="48" groupIndex="23" lat="42.23577204103133" lon="-96.97880034154159" alt="0.00000000000000" pitch="0.004535" bank="-0.004535" heading="-80.140051" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="17" lat="42.23577220058061" lon="-96.97790299395663" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-90.153757" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="2" lat="42.23577521637562" lon="-96.97672477791687" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.205613" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="4" lat="42.23577558069441" lon="-96.97766433750171" alt="0.00000000000000" pitch="0.004534" bank="-0.004534" heading="-89.607301" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 3)" parentGroupID="48" groupIndex="21" lat="42.23577584080291" lon="-96.97695416952990" alt="0.00000000000000" pitch="0.005879" bank="-0.005879" heading="-88.555445" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="9" lat="42.23577617134433" lon="-96.97719134699972" alt="0.00000000000000" pitch="0.005879" bank="-0.005879" heading="-88.555445" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="27" lat="42.23577848565094" lon="-96.97742719181205" alt="0.00000000000000" pitch="0.004534" bank="-0.004534" heading="-89.607301" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="30" lat="42.23578303548883" lon="-96.97648783351406" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-91.205613" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="14" lat="42.23578561040585" lon="-96.97625199356057" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-90.153757" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject parentGroupID="48" lat="42.23578734666359" lon="-96.98256388347332" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-90.485376" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy)" parentGroupID="48" groupIndex="3" lat="42.23578770675181" lon="-96.98067564741130" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-90.485376" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 3)" parentGroupID="48" groupIndex="19" lat="42.23579019593860" lon="-96.97601489590998" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-90.153757" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="20" lat="42.23579047355283" lon="-96.98090500823513" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-87.835208" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 3)" parentGroupID="48" groupIndex="24" lat="42.23579083364105" lon="-96.97901677217311" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-87.835208" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy)" parentGroupID="48" groupIndex="32" lat="42.23579295227304" lon="-96.98232682768364" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-90.485376" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="8" lat="42.23579301920556" lon="-96.98114215920984" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-87.835208" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="29" lat="42.23579331236126" lon="-96.98043859162162" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-90.485376" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy)" parentGroupID="48" groupIndex="12" lat="42.23579332436803" lon="-96.98209096497747" alt="0.00000000000000" pitch="0.002889" bank="-0.002889" heading="-89.433520" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="11" lat="42.23579337929378" lon="-96.97925392314782" alt="0.00000000000000" pitch="0.004384" bank="-0.004384" heading="-87.835208" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="7" lat="42.23579357605245" lon="-96.97577623938892" alt="0.00000000000000" pitch="0.004534" bank="-0.004534" heading="-89.607301" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="15" lat="42.23579368445625" lon="-96.98020272891546" alt="0.00000000000000" pitch="0.002889" bank="-0.002889" heading="-89.433520" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 4)" parentGroupID="48" groupIndex="22" lat="42.23579383616118" lon="-96.97506607121775" alt="0.00000000000000" pitch="0.005879" bank="-0.005879" heading="-88.555445" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 3)" parentGroupID="48" groupIndex="10" lat="42.23579416670221" lon="-96.97530324875432" alt="0.00000000000000" pitch="0.005879" bank="-0.005879" heading="-88.555445" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="16" lat="42.23579569519214" lon="-96.98185381067610" alt="0.00000000000000" pitch="0.002889" bank="-0.002889" heading="-89.433520" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="18" lat="42.23579605528036" lon="-96.97996557461408" alt="0.00000000000000" pitch="0.002889" bank="-0.002889" heading="-89.433520" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 3)" parentGroupID="48" groupIndex="26" lat="42.23579648100858" lon="-96.97553909363283" alt="0.00000000000000" pitch="0.004534" bank="-0.004534" heading="-89.607301" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy)" parentGroupID="48" groupIndex="5" lat="42.23579684612225" lon="-96.98161511804422" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.887064" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="6" lat="42.23579720621047" lon="-96.97972688198220" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.887064" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 1)" parentGroupID="48" groupIndex="28" lat="42.23579753603808" lon="-96.98137794409121" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.887064" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject displayName="Fence04 (copy 2)" parentGroupID="48" groupIndex="25" lat="42.23579789612630" lon="-96.97948970802919" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-88.887064" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Little-->
+	<SceneryObject parentGroupID="47" lat="42.23610095675721" lon="-96.98471379563159" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-91.160793" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Little-->
+	<SceneryObject displayName="Fence_Grilling04_B_Little (copy)" parentGroupID="47" groupIndex="1" lat="42.23610456189768" lon="-96.98454715129749" alt="0.00000000000000" pitch="0.000628" bank="-0.000628" heading="-92.744523" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 5)" parentGroupID="47" groupIndex="22" lat="42.23577852615808" lon="-96.98438679366342" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 6)" parentGroupID="47" groupIndex="16" lat="42.23577913878992" lon="-96.98418617024896" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 6)" parentGroupID="47" groupIndex="24" lat="42.23577976728335" lon="-96.98398569038879" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 7)" parentGroupID="47" groupIndex="18" lat="42.23578037991519" lon="-96.98378506697433" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 6)" parentGroupID="47" groupIndex="23" lat="42.23578094204642" lon="-96.98358495179926" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 7)" parentGroupID="47" groupIndex="17" lat="42.23578155467827" lon="-96.98338432838480" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 7)" parentGroupID="47" groupIndex="25" lat="42.23578218317169" lon="-96.98318384852463" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 8)" parentGroupID="47" groupIndex="19" lat="42.23578279580354" lon="-96.98298322511017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 9)" parentGroupID="47" groupIndex="20" lat="42.23578332669491" lon="-96.98278272427341" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-90.242283" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 5)" parentGroupID="47" groupIndex="15" lat="42.23587614663827" lon="-96.98448465871849" alt="0.00000000000000" pitch="0.001544" bank="-0.003039" heading="0.868978" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 4)" parentGroupID="47" groupIndex="21" lat="42.23602521748295" lon="-96.98448159207209" alt="0.00000000000000" pitch="0.001544" bank="-0.003039" heading="0.868978" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 1)" parentGroupID="47" groupIndex="4" lat="42.23607687178206" lon="-96.98737040518122" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy)" parentGroupID="47" groupIndex="3" lat="42.23607687190916" lon="-96.98680383473943" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 1)" parentGroupID="47" groupIndex="10" lat="42.23607901370718" lon="-96.98660331363254" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject parentGroupID="47" groupIndex="2" lat="42.23608140224514" lon="-96.98640298629597" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy)" parentGroupID="47" groupIndex="9" lat="42.23608354404316" lon="-96.98620246518908" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy)" parentGroupID="47" groupIndex="7" lat="42.23608567066748" lon="-96.98600168956575" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 1)" parentGroupID="47" groupIndex="12" lat="42.23608781246550" lon="-96.98580116845886" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy)" parentGroupID="47" groupIndex="6" lat="42.23609114151664" lon="-96.98560024894226" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 1)" parentGroupID="47" groupIndex="11" lat="42.23609328331466" lon="-96.98539972783537" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 1)" parentGroupID="47" groupIndex="8" lat="42.23609540993898" lon="-96.98519895221204" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 2)" parentGroupID="47" groupIndex="13" lat="42.23609755173700" lon="-96.98499843110515" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 3)" parentGroupID="47" groupIndex="14" lat="42.23609992410521" lon="-96.98479779012023" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-90.902011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_Midlle-->
+	<SceneryObject displayName="Fence_Grilling04_B_Midlle (copy 2)" parentGroupID="47" groupIndex="5" lat="42.23615012186359" lon="-96.98746797744967" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="1.297647" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{314C4CE9-02CD-4A3B-A28E-EB33386EA37E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_B_PortalBig-->
+	<SceneryObject parentGroupID="47" groupIndex="26" lat="42.23610353900346" lon="-96.98461290240256" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-91.526365" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{573E871B-D4AE-497A-B7EB-03568DAA72ED}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Fence_Light-->
 	<SceneryObject displayName="Fence_Light (copy 5)" parentGroupID="8" groupIndex="29" lat="42.23975061702952" lon="-96.98634609562298" alt="0.00000000000000" pitch="0.001544" bank="-0.003039" heading="-39.959609" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C4E8B41C-5991-42A9-A30F-F1E86B4B8C44}" scale="1.000000"/>
@@ -1041,7 +1281,7 @@
 		<LibraryObject name="{C4E8B41C-5991-42A9-A30F-F1E86B4B8C44}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar141-->
-	<SceneryObject parentGroupID="1" groupIndex="5" lat="42.23622058398501" lon="-96.98706074268758" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="83.094510" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="1" groupIndex="6" lat="42.23622058398501" lon="-96.98706074268758" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="83.094510" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{F4EE69D8-1F30-40AC-B8DF-F0DDB4928BFC}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1413,10 +1653,6 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="13" groupIndex="11" lat="42.25179711073575" lon="-96.98759473669708" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="11" groupIndex="16" lat="42.25179711073575" lon="-96.98759473669708" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
@@ -1429,11 +1665,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="12" groupIndex="15" lat="42.25179869128018" lon="-96.98762609261458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="20" groupIndex="25" lat="42.25179869128018" lon="-96.98762609261458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="13" groupIndex="11" lat="42.25179711073575" lon="-96.98759473669708" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1441,11 +1673,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="12" groupIndex="15" lat="42.25179869128018" lon="-96.98762609261458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="13" groupIndex="15" lat="42.25179869128018" lon="-96.98762609261458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="28" lat="42.25179964256100" lon="-96.98765139629350" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="20" groupIndex="25" lat="42.25179869128018" lon="-96.98762609261458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1453,15 +1689,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="20" groupIndex="40" lat="42.25179964256100" lon="-96.98765139629350" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="11" groupIndex="34" lat="42.25179964256100" lon="-96.98765139629350" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="12" groupIndex="24" lat="42.25180046611091" lon="-96.98767894606694" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="20" groupIndex="40" lat="42.25179964256100" lon="-96.98765139629350" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="28" lat="42.25179964256100" lon="-96.98765139629350" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1477,7 +1713,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="13" groupIndex="3" lat="42.25181621601619" lon="-96.98759359717072" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="12" groupIndex="24" lat="42.25180046611091" lon="-96.98767894606694" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="11" groupIndex="4" lat="42.25181621601619" lon="-96.98759359717072" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1489,7 +1729,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="11" groupIndex="4" lat="42.25181621601619" lon="-96.98759359717072" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="13" groupIndex="3" lat="42.25181621601619" lon="-96.98759359717072" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="20" groupIndex="12" lat="42.25181779656005" lon="-96.98762495308770" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480470" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="11" groupIndex="9" lat="42.25181779656005" lon="-96.98762495308770" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480470" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1501,11 +1749,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="11" groupIndex="9" lat="42.25181779656005" lon="-96.98762495308770" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480470" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="13" groupIndex="24" lat="42.25181896828438" lon="-96.98765035026797" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="20" groupIndex="12" lat="42.25181779656005" lon="-96.98762495308770" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480470" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="11" groupIndex="37" lat="42.25181896828438" lon="-96.98765035026797" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1517,11 +1765,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="13" groupIndex="24" lat="42.25181896828438" lon="-96.98765035026797" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="38" lat="42.25181979183448" lon="-96.98767790004510" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="11" groupIndex="37" lat="42.25181896828438" lon="-96.98765035026797" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="13" groupIndex="28" lat="42.25181979183448" lon="-96.98767790004510" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1533,23 +1781,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="38" lat="42.25181979183448" lon="-96.98767790004510" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="13" groupIndex="28" lat="42.25181979183448" lon="-96.98767790004510" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-177.480471" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="20" lat="42.25194231692411" lon="-96.98905977105863" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="20" groupIndex="30" lat="42.25194231692411" lon="-96.98905977105863" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="11" groupIndex="29" lat="42.25194231692411" lon="-96.98905977105863" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="20" lat="42.25194231692411" lon="-96.98905977105863" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1565,11 +1805,19 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="20" groupIndex="33" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="15" groupIndex="9" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="14" groupIndex="13" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="12" groupIndex="22" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="20" groupIndex="33" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1581,19 +1829,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="14" groupIndex="13" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="15" groupIndex="9" lat="42.25195090979272" lon="-96.98678822277822" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="14" groupIndex="16" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="38" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="12" groupIndex="25" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1605,27 +1841,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="14" groupIndex="16" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="38" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="15" groupIndex="11" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="12" groupIndex="25" lat="42.25195146902104" lon="-96.98676066098744" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="15" groupIndex="5" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="14" groupIndex="7" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 5)" parentGroupID="11" groupIndex="15" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="13" groupIndex="10" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1633,11 +1857,39 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 5)" parentGroupID="11" groupIndex="15" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale L (copy 4)" parentGroupID="12" groupIndex="12" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="14" groupIndex="7" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="13" groupIndex="10" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="15" groupIndex="5" lat="42.25195178296359" lon="-96.98670390056253" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="13" groupIndex="13" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="12" groupIndex="16" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="15" groupIndex="7" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="14" groupIndex="10" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1649,15 +1901,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="12" groupIndex="16" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="14" groupIndex="10" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="13" groupIndex="13" lat="42.25195178822641" lon="-96.98673532857289" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="20" groupIndex="36" lat="42.25196276559525" lon="-96.98905814961498" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1665,19 +1909,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="20" groupIndex="36" lat="42.25196276559525" lon="-96.98905814961498" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="12" groupIndex="29" lat="42.25196276559525" lon="-96.98905814961498" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="12" groupIndex="34" lat="42.25196390252380" lon="-96.98908413847458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="11" groupIndex="41" lat="42.25196390252380" lon="-96.98908413847458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1685,19 +1917,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="14" groupIndex="22" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="11" groupIndex="41" lat="42.25196390252380" lon="-96.98908413847458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="13" groupIndex="30" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="15" groupIndex="14" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="50" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="12" groupIndex="34" lat="42.25196390252380" lon="-96.98908413847458" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1709,7 +1933,23 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="11" groupIndex="39" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="13" groupIndex="30" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="15" groupIndex="14" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="14" groupIndex="22" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="50" lat="42.25197024391250" lon="-96.98678893421400" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="13" groupIndex="25" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1721,27 +1961,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="15" groupIndex="12" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="13" groupIndex="25" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="20" groupIndex="47" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="11" groupIndex="3" lat="42.25197090182949" lon="-96.98670449868716" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 4)" parentGroupID="15" groupIndex="12" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="14" groupIndex="2" lat="42.25197090182949" lon="-96.98670449868716" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="13" groupIndex="1" lat="42.25197090182949" lon="-96.98670449868716" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="11" groupIndex="39" lat="42.25197080314101" lon="-96.98676137241952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1757,6 +1985,26 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="14" groupIndex="2" lat="42.25197090182949" lon="-96.98670449868716" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="11" groupIndex="3" lat="42.25197090182949" lon="-96.98670449868716" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="13" groupIndex="1" lat="42.25197090182949" lon="-96.98670449868716" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="12" groupIndex="7" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="20" groupIndex="10" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="15" groupIndex="3" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
@@ -1765,19 +2013,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="13" groupIndex="6" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 4)" parentGroupID="11" groupIndex="8" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="20" groupIndex="10" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="13" groupIndex="6" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="12" groupIndex="7" lat="42.25197090709182" lon="-96.98673592669697" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="12" groupIndex="19" lat="42.25198154348580" lon="-96.98905639811312" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1789,11 +2033,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="12" groupIndex="19" lat="42.25198154348580" lon="-96.98905639811312" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="12" groupIndex="5" lat="42.25198274575605" lon="-96.98908208856949" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586707" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="20" groupIndex="8" lat="42.25198274575605" lon="-96.98908208856949" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586707" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1801,11 +2041,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="20" groupIndex="8" lat="42.25198274575605" lon="-96.98908208856949" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586707" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="11" groupIndex="12" lat="42.25200480526873" lon="-96.98905368704156" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy)" parentGroupID="12" groupIndex="5" lat="42.25198274575605" lon="-96.98908208856949" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586707" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1813,11 +2049,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="12" groupIndex="10" lat="42.25200480526873" lon="-96.98905368704156" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="11" groupIndex="12" lat="42.25200480526873" lon="-96.98905368704156" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="20" lat="42.25200600753222" lon="-96.98907937750823" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="12" groupIndex="10" lat="42.25200480526873" lon="-96.98905368704156" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1825,11 +2061,23 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="20" lat="42.25200600753222" lon="-96.98907937750823" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="12" lat="42.25200600753222" lon="-96.98907937750823" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="14" groupIndex="14" lat="42.25256684610624" lon="-96.98747980905887" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="13" groupIndex="18" lat="42.25256684610624" lon="-96.98747980905887" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="34" lat="42.25256684610624" lon="-96.98747980905887" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1841,11 +2089,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="14" groupIndex="14" lat="42.25256684610624" lon="-96.98747980905887" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="34" lat="42.25256684610624" lon="-96.98747980905887" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="11" groupIndex="31" lat="42.25256740533457" lon="-96.98745224726810" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1853,11 +2097,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="11" groupIndex="31" lat="42.25256740533457" lon="-96.98745224726810" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="14" groupIndex="17" lat="42.25256740533457" lon="-96.98745224726810" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="12" groupIndex="27" lat="42.25256740533457" lon="-96.98745224726810" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1865,15 +2105,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="12" groupIndex="27" lat="42.25256740533457" lon="-96.98745224726810" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="14" groupIndex="8" lat="42.25256771927712" lon="-96.98739548684318" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 5)" parentGroupID="20" groupIndex="16" lat="42.25256771927712" lon="-96.98739548684318" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="14" groupIndex="17" lat="42.25256740533457" lon="-96.98745224726810" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1881,7 +2113,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="14" groupIndex="8" lat="42.25256771927712" lon="-96.98739548684318" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="13" groupIndex="8" lat="42.25256771927712" lon="-96.98739548684318" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 5)" parentGroupID="20" groupIndex="16" lat="42.25256771927712" lon="-96.98739548684318" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1889,11 +2129,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="11" groupIndex="22" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 4)" parentGroupID="20" groupIndex="24" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 4)" parentGroupID="20" groupIndex="24" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="11" groupIndex="22" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1901,15 +2141,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="14" groupIndex="11" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="13" groupIndex="14" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="12" groupIndex="35" lat="42.25258618022602" lon="-96.98748052049466" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="14" groupIndex="11" lat="42.25256772453994" lon="-96.98742691485354" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1917,7 +2153,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="14" groupIndex="21" lat="42.25258618022602" lon="-96.98748052049466" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="12" groupIndex="35" lat="42.25258618022602" lon="-96.98748052049466" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1929,11 +2165,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="20" groupIndex="48" lat="42.25258673945453" lon="-96.98745295870017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="33" lat="42.25258673945453" lon="-96.98745295870017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="14" groupIndex="21" lat="42.25258618022602" lon="-96.98748052049466" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1941,7 +2173,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="11" groupIndex="40" lat="42.25258673945453" lon="-96.98745295870017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="12" groupIndex="33" lat="42.25258673945453" lon="-96.98745295870017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1949,15 +2181,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 4)" parentGroupID="11" groupIndex="1" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="20" groupIndex="48" lat="42.25258673945453" lon="-96.98745295870017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="13" groupIndex="2" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="20" groupIndex="1" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="11" groupIndex="40" lat="42.25258673945453" lon="-96.98745295870017" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1965,15 +2193,27 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="13" groupIndex="2" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="12" groupIndex="1" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="13" groupIndex="4" lat="42.25258684340534" lon="-96.98742751297762" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 4)" parentGroupID="11" groupIndex="1" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="20" groupIndex="1" lat="42.25258683814301" lon="-96.98739608496781" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="11" groupIndex="6" lat="42.25258684340534" lon="-96.98742751297762" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="13" groupIndex="4" lat="42.25258684340534" lon="-96.98742751297762" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -1997,11 +2237,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="11" groupIndex="47" lat="42.25260797254003" lon="-96.98876724254764" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="20" groupIndex="54" lat="42.25260797254003" lon="-96.98876724254764" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="20" groupIndex="54" lat="42.25260797254003" lon="-96.98876724254764" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="11" groupIndex="47" lat="42.25260797254003" lon="-96.98876724254764" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2021,11 +2261,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="11" groupIndex="18" lat="42.25264606217003" lon="-96.98873788075022" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="20" groupIndex="21" lat="42.25264606217003" lon="-96.98873788075022" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="20" groupIndex="21" lat="42.25264606217003" lon="-96.98873788075022" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="11" groupIndex="18" lat="42.25264606217003" lon="-96.98873788075022" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="93.586706" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2053,23 +2293,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="16" groupIndex="4" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="12" groupIndex="23" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 12)" parentGroupID="20" groupIndex="32" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="13" groupIndex="16" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="11" groupIndex="25" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2077,7 +2301,27 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="13" groupIndex="16" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="16" groupIndex="4" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="11" groupIndex="25" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="14" groupIndex="12" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 12)" parentGroupID="20" groupIndex="32" lat="42.25276848615403" lon="-96.98618172037401" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="12" groupIndex="26" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2089,19 +2333,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="20" groupIndex="39" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="11" groupIndex="33" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="12" groupIndex="26" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="16" groupIndex="5" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2109,15 +2341,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="16" groupIndex="2" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="20" groupIndex="39" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="14" groupIndex="6" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 5)" parentGroupID="12" groupIndex="11" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="16" groupIndex="5" lat="42.25276904538234" lon="-96.98615415858323" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2125,7 +2353,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 6)" parentGroupID="11" groupIndex="14" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="16" groupIndex="2" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2137,27 +2365,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 4)" parentGroupID="12" groupIndex="17" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="14" groupIndex="6" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="13" groupIndex="12" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 6)" parentGroupID="11" groupIndex="14" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 6)" parentGroupID="20" groupIndex="22" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="16" groupIndex="3" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="14" groupIndex="9" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="15" groupIndex="6" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 5)" parentGroupID="12" groupIndex="11" lat="42.25276935932489" lon="-96.98609739815832" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2165,27 +2381,27 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="20" groupIndex="51" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 3)" parentGroupID="13" groupIndex="12" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="14" groupIndex="23" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy)" parentGroupID="16" groupIndex="3" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="15" groupIndex="15" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 6)" parentGroupID="20" groupIndex="22" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="11" groupIndex="43" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 1)" parentGroupID="15" groupIndex="6" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="13" groupIndex="31" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 2)" parentGroupID="14" groupIndex="9" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="16" groupIndex="7" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale L (copy 4)" parentGroupID="12" groupIndex="17" lat="42.25276936458771" lon="-96.98612882616868" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2193,15 +2409,31 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="13" groupIndex="26" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="14" groupIndex="23" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="11" groupIndex="38" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 8)" parentGroupID="13" groupIndex="31" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="15" groupIndex="13" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="11" groupIndex="43" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="16" groupIndex="7" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 11)" parentGroupID="20" groupIndex="51" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="15" groupIndex="15" lat="42.25278782027381" lon="-96.98618243180979" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="46" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2213,7 +2445,15 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 10)" parentGroupID="20" groupIndex="46" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="15" groupIndex="13" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 7)" parentGroupID="13" groupIndex="26" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale (copy 9)" parentGroupID="11" groupIndex="38" lat="42.25278837950232" lon="-96.98615487001531" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2221,23 +2461,7 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="16" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="14" groupIndex="1" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 7)" parentGroupID="20" groupIndex="2" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 4)" parentGroupID="13" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 6)" parentGroupID="11" groupIndex="2" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2249,19 +2473,31 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 4)" parentGroupID="13" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 6)" parentGroupID="11" groupIndex="2" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="14" groupIndex="1" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="16" lat="42.25278847819079" lon="-96.98609799628295" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650920" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="11" groupIndex="7" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="15" groupIndex="2" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="14" groupIndex="4" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
 	<SceneryObject displayName="LILO_Hay_Bale R (copy 6)" parentGroupID="20" groupIndex="9" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="13" groupIndex="5" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2273,7 +2509,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 5)" parentGroupID="11" groupIndex="7" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="14" groupIndex="4" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: LILO_Hay_Bale-->
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 3)" parentGroupID="13" groupIndex="5" lat="42.25278848345312" lon="-96.98612942429276" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="178.650921" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2285,11 +2525,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="18" groupIndex="5" lat="42.25309259913777" lon="-96.98551661306938" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="17" groupIndex="10" lat="42.25309259913777" lon="-96.98551661306938" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="17" groupIndex="10" lat="42.25309259913777" lon="-96.98551661306938" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="18" groupIndex="5" lat="42.25309259913777" lon="-96.98551661306938" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2309,11 +2549,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="18" groupIndex="7" lat="42.25310812371651" lon="-96.98554825746348" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="17" groupIndex="14" lat="42.25310812371651" lon="-96.98554825746348" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale (copy 6)" parentGroupID="17" groupIndex="14" lat="42.25310812371651" lon="-96.98554825746348" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale (copy 5)" parentGroupID="18" groupIndex="7" lat="42.25310812371651" lon="-96.98554825746348" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2333,11 +2573,11 @@
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="18" lat="42.25311788669895" lon="-96.98546484618493" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="17" groupIndex="1" lat="42.25311788669895" lon="-96.98546484618493" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
-	<SceneryObject displayName="LILO_Hay_Bale R (copy 2)" parentGroupID="17" groupIndex="1" lat="42.25311788669895" lon="-96.98546484618493" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="LILO_Hay_Bale R (copy 1)" parentGroupID="18" lat="42.25311788669895" lon="-96.98546484618493" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="170.298459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{1D393126-B0C3-4616-AE07-0796F2A7FC79}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: LILO_Hay_Bale-->
@@ -2453,8 +2693,11 @@
 		<LibraryObject name="{3C6639C0-C09B-4FD8-9015-613D2B2C9E57}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: RotatingBeacon_Tower-->
-	<SceneryObject parentGroupID="1" groupIndex="3" lat="42.23596978234662" lon="-96.98676627121270" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="1" groupIndex="4" lat="42.23596978234662" lon="-96.98676627121270" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A04B772A-6BBF-4103-B263-D479BCCE71F5}" scale="1.000000"/>
+		<AttachedObject attachpointName="" instanceId="{87EF00E1-CCC3-4E8A-ACBE-241DD6B4A8DA}" pitch="0.000000" bank="0.000000" heading="0.000000">
+			<Beacon type="CIVILIAN" baseType="AIRPORT"/>
+		</AttachedObject>
 	</SceneryObject>
 	<SceneryObject parentGroupID="36" groupIndex="3" lat="42.31384693847149" lon="-96.84471496039241" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LowResAltitude/>
@@ -2608,7 +2851,7 @@
 		<LowResAltitude/>
 		<SimObject containerTitle="Windmill" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="1" groupIndex="4" lat="42.23774301269476" lon="-96.98494055852564" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="1" groupIndex="5" lat="42.23774301269476" lon="-96.98494055852564" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: TOTOF-DA20ULM-->
@@ -3687,7 +3930,7 @@
 	<SceneryObject displayName="totofmaule (copy 1)" parentGroupID="34" groupIndex="108" lat="42.24352621927484" lon="-96.98597564753540" alt="0.00000000000000" pitch="0.002527" bank="-0.002527" heading="135.364812" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{FDF8DA4A-4829-4A37-1CEE-F8374D25262F}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject parentGroupID="1" groupIndex="2" lat="42.23601868108165" lon="-96.98727342397741" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject parentGroupID="1" groupIndex="3" lat="42.23601868108165" lon="-96.98727342397741" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<CarParking>
 			<Vertex lat="42.23612250571908" lon="-96.98691669056603"/>
 			<Vertex lat="42.23618498424728" lon="-96.98691415634111"/>
@@ -3706,6 +3949,21 @@
 			<Vertex lat="42.23894166910436" lon="-96.98822044335718"/>
 		</CarParking>
 	</SceneryObject>
+	<Polygon parentGroupID="46" altitude="436.00049996469170">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D47E9897-F7D2-4DBA-A1AB-527B1B3B4EEA}"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="1.000000"/>
+		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
+		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
+		<Vertex lat="42.23606879485474" lon="-96.98691248789142"/>
+		<Vertex lat="42.23609113370675" lon="-96.98449630944432"/>
+		<Vertex lat="42.23576471498762" lon="-96.98450329524361"/>
+		<Vertex lat="42.23576692146146" lon="-96.98281223449976"/>
+		<Vertex lat="42.23579321273183" lon="-96.98281762084738"/>
+		<Vertex lat="42.23578945470517" lon="-96.98447039057351"/>
+		<Vertex lat="42.23611200286514" lon="-96.98446458962495"/>
+		<Vertex lat="42.23609414016411" lon="-96.98650230179604"/>
+		<Vertex lat="42.23609398359160" lon="-96.98691511919432"/>
+	</Polygon>
 	<Polygon parentGroupID="21" groupIndex="5" altitude="435.79327392578125">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5C5D2E4A-B398-4BD5-A979-83B1F75C4A38}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{56A07AF6-57B8-4F97-A194-95470EF95875}"/>
@@ -3812,6 +4070,8 @@
 	<Group displayName="Exclusions" groupIndex="6" groupID="6" groupGenerated="FALSE"/>
 	<Group displayName="Fence Light East" parentGroupID="27" groupIndex="5" groupID="7" groupGenerated="FALSE"/>
 	<Group displayName="Fence Light West" parentGroupID="27" groupIndex="3" groupID="8" groupGenerated="FALSE"/>
+	<Group displayName="Fencing" parentGroupID="1" groupIndex="1" groupID="46" groupGenerated="FALSE"/>
+	<Group displayName="Grills" parentGroupID="46" groupIndex="1" groupID="47" groupGenerated="FALSE"/>
 	<Group displayName="Hay Bales" parentGroupID="1" groupID="9" groupGenerated="FALSE"/>
 	<Group displayName="Midfield - Hay" parentGroupID="9" groupIndex="3" groupID="10" groupGenerated="FALSE"/>
 	<Group displayName="Midfield - Hay (copy 1)" parentGroupID="9" groupIndex="4" groupID="11" groupGenerated="FALSE"/>
@@ -3828,7 +4088,7 @@
 	<Group displayName="New Group 9" parentGroupID="9" groupID="22" groupGenerated="FALSE"/>
 	<Group displayName="New Group 9 (copy 1)" parentGroupID="9" groupIndex="1" groupID="23" groupGenerated="FALSE"/>
 	<Group displayName="New Group 9 (copy)" parentGroupID="9" groupIndex="2" groupID="24" groupGenerated="FALSE"/>
-	<Group displayName="Plastic Barriers" parentGroupID="1" groupIndex="1" groupID="25" groupGenerated="FALSE"/>
+	<Group displayName="Plastic Barriers" parentGroupID="1" groupIndex="2" groupID="25" groupGenerated="FALSE"/>
 	<Group displayName="Polygons" groupIndex="3" groupID="26" groupGenerated="FALSE"/>
 	<Group displayName="STOL Area" groupIndex="1" groupID="27" groupGenerated="FALSE"/>
 	<Group displayName="STOL Marker" parentGroupID="5" groupIndex="3" groupID="28" groupGenerated="FALSE"/>
@@ -3840,6 +4100,7 @@
 	<Group displayName="Totof" parentGroupID="5" groupIndex="1" groupID="34" groupGenerated="FALSE"/>
 	<Group displayName="Vehicles" parentGroupID="33" groupIndex="1" groupID="35" groupGenerated="FALSE"/>
 	<Group displayName="Windmills" groupIndex="4" groupID="36" groupGenerated="FALSE"/>
+	<Group displayName="Wood" parentGroupID="46" groupIndex="2" groupID="48" groupGenerated="FALSE"/>
 	<Group displayName="YMBT" parentGroupID="5" groupID="37" groupGenerated="FALSE"/>
 	<Group displayName="Yellow Cones" parentGroupID="27" groupIndex="6" groupID="38" groupGenerated="FALSE"/>
 	<Airport groupID="39" groupGenerated="FALSE" name="Wayne Municipal Airport" ident="KLCG" lat="42.24160552024841" lon="-96.98227241635323" alt="435.45703125000000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
@@ -3849,79 +4110,79 @@
 		<Group displayName="Extended Taxiway" parentGroupID="39" groupIndex="4" groupID="43" groupGenerated="FALSE"/>
 		<Group displayName="Painted Lines" parentGroupID="39" groupIndex="5" groupID="44" groupGenerated="FALSE"/>
 		<Group displayName="Parking" parentGroupID="39" groupIndex="1" groupID="45" groupGenerated="FALSE"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="58" index="45" type="HOLD_SHORT" orientation="REVERSE" lat="42.23687164827811" lon="-96.98533041175344"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="51" index="41" type="HOLD_SHORT" orientation="REVERSE" lat="42.23687389771556" lon="-96.98581921052848"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="25" index="0" type="NORMAL" orientation="FORWARD" lat="42.23754059357177" lon="-96.98781107120925"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="26" index="1" type="NORMAL" orientation="FORWARD" lat="42.23747388165371" lon="-96.98774420997395"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="28" index="2" type="HOLD_SHORT" orientation="REVERSE" lat="42.23728350171766" lon="-96.98756827927063"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="95" index="17" type="HOLD_SHORT" orientation="FORWARD" lat="42.23754070654668" lon="-96.98123139799121"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="121" index="27" type="HOLD_SHORT" orientation="FORWARD" lat="42.24031935528595" lon="-96.98123909735814"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="117" index="24" type="HOLD_SHORT" orientation="FORWARD" lat="42.24171081821544" lon="-96.98147837517875"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="133" index="32" type="HOLD_SHORT" orientation="FORWARD" lat="42.24271568469457" lon="-96.97748872422298"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="106" index="21" type="HOLD_SHORT" orientation="REVERSE" lat="42.24896109907833" lon="-96.98084426311735"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="63" index="46" type="NORMAL" orientation="FORWARD" lat="42.23626777855289" lon="-96.98534005776030"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="53" index="43" type="NORMAL" orientation="FORWARD" lat="42.23634625926269" lon="-96.98582327175124"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="47" index="61" type="NORMAL" orientation="FORWARD" lat="42.23640854934613" lon="-96.98651148474187"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="59" index="69" type="NORMAL" orientation="REVERSE" lat="42.23646626862836" lon="-96.98533523475687"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="52" index="72" type="NORMAL" orientation="REVERSE" lat="42.23655012255944" lon="-96.98582124113985"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="41" index="63" type="NORMAL" orientation="FORWARD" lat="42.23657453124697" lon="-96.98651074763710"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="75" index="49" type="NORMAL" orientation="FORWARD" lat="42.23659839389977" lon="-96.98486588709746"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="87" index="52" type="NORMAL" orientation="FORWARD" lat="42.23666536333097" lon="-96.98354430775947"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="42" index="62" type="NORMAL" orientation="FORWARD" lat="42.23672997436788" lon="-96.98651001053233"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="74" index="48" type="HOLD_SHORT" orientation="REVERSE" lat="42.23687012424733" lon="-96.98485868318978"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="40" index="53" type="NORMAL" orientation="FORWARD" lat="42.23687697375378" lon="-96.98650853632280"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="39" index="40" type="NORMAL" orientation="FORWARD" lat="42.23699643633276" lon="-96.98650850158241"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="71" index="47" type="NORMAL" orientation="FORWARD" lat="42.23703897577006" lon="-96.98485863954120"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="54" index="44" type="NORMAL" orientation="FORWARD" lat="42.23704032656013" lon="-96.98532756080046"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="50" index="42" type="NORMAL" orientation="FORWARD" lat="42.23704546003216" lon="-96.98581673361663"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="29" index="3" type="NORMAL" orientation="FORWARD" lat="42.23716998317209" lon="-96.98745284621378"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="32" index="4" type="NORMAL" orientation="FORWARD" lat="42.23709511944181" lon="-96.98722941712303"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="34" index="5" type="NORMAL" orientation="FORWARD" lat="42.23709469035177" lon="-96.98673095124309"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="38" index="6" type="NORMAL" orientation="FORWARD" lat="42.23709457096298" lon="-96.98631537836555"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="48" index="7" type="NORMAL" orientation="FORWARD" lat="42.23709413886007" lon="-96.98593007099372"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="65" index="8" type="NORMAL" orientation="FORWARD" lat="42.23708966869409" lon="-96.98571667488353"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="66" index="9" type="NORMAL" orientation="FORWARD" lat="42.23709019671275" lon="-96.98543286320182"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="69" index="10" type="NORMAL" orientation="FORWARD" lat="42.23709143734087" lon="-96.98521663020455"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="70" index="11" type="NORMAL" orientation="FORWARD" lat="42.23709236910803" lon="-96.98497433972391"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="48" index="7" type="NORMAL" orientation="FORWARD" lat="42.23709413886007" lon="-96.98593007099372"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="38" index="6" type="NORMAL" orientation="FORWARD" lat="42.23709457096298" lon="-96.98631537836555"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="34" index="5" type="NORMAL" orientation="FORWARD" lat="42.23709469035177" lon="-96.98673095124309"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="33" index="64" type="NORMAL" orientation="FORWARD" lat="42.23709490486531" lon="-96.98703592929361"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="32" index="4" type="NORMAL" orientation="FORWARD" lat="42.23709511944181" lon="-96.98722941712303"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="79" index="12" type="NORMAL" orientation="FORWARD" lat="42.23713703278462" lon="-96.98481605512571"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="29" index="3" type="NORMAL" orientation="FORWARD" lat="42.23716998317209" lon="-96.98745284621378"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="84" index="51" type="NORMAL" orientation="FORWARD" lat="42.23728559665087" lon="-96.98352293545389"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="83" index="50" type="NORMAL" orientation="FORWARD" lat="42.23743798396985" lon="-96.98354317787610"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="26" index="1" type="NORMAL" orientation="FORWARD" lat="42.23747388165371" lon="-96.98774420997395"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="80" index="13" type="NORMAL" orientation="FORWARD" lat="42.23750992315523" lon="-96.98369494116365"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="99" index="18" type="NORMAL" orientation="FORWARD" lat="42.23753117344512" lon="-96.98053959252545"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="94" index="36" type="NORMAL" orientation="FORWARD" lat="42.23753593994631" lon="-96.98071518265726"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="25" index="0" type="NORMAL" orientation="FORWARD" lat="42.23754059357177" lon="-96.98781107120925"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="93" index="16" type="NORMAL" orientation="FORWARD" lat="42.23754426551872" lon="-96.98143219564155"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="90" index="15" type="NORMAL" orientation="FORWARD" lat="42.23755349871731" lon="-96.98184444709644"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="89" index="14" type="NORMAL" orientation="FORWARD" lat="42.23758531617201" lon="-96.98333129408445"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="125" index="26" type="NORMAL" orientation="FORWARD" lat="42.23777812830260" lon="-96.98162159557037"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="118" index="25" type="NORMAL" orientation="FORWARD" lat="42.24008506186922" lon="-96.98152636551566"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="124" index="28" type="NORMAL" orientation="FORWARD" lat="42.24061288080915" lon="-96.98071432720612"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="90" index="15" type="NORMAL" orientation="FORWARD" lat="42.23755349871731" lon="-96.98184444709644"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="93" index="16" type="NORMAL" orientation="FORWARD" lat="42.23754426551872" lon="-96.98143219564155"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="95" index="17" type="HOLD_SHORT" orientation="FORWARD" lat="42.23754070654668" lon="-96.98123139799121"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="99" index="18" type="NORMAL" orientation="FORWARD" lat="42.23753117344512" lon="-96.98053959252545"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="100" index="19" type="NORMAL" orientation="FORWARD" lat="42.24073549104522" lon="-96.98046108772975"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="103" index="20" type="NORMAL" orientation="FORWARD" lat="42.24894232651979" lon="-96.98015803048440"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="106" index="21" type="HOLD_SHORT" orientation="REVERSE" lat="42.24896109907833" lon="-96.98084426311735"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="113" index="22" type="NORMAL" orientation="FORWARD" lat="42.24862175952989" lon="-96.98122255683184"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="114" index="23" type="NORMAL" orientation="FORWARD" lat="42.24285485442761" lon="-96.98144009527554"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="117" index="24" type="HOLD_SHORT" orientation="FORWARD" lat="42.24171081821544" lon="-96.98147837517875"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="118" index="25" type="NORMAL" orientation="FORWARD" lat="42.24008506186922" lon="-96.98152636551566"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="125" index="26" type="NORMAL" orientation="FORWARD" lat="42.23777812830260" lon="-96.98162159557037"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="121" index="27" type="HOLD_SHORT" orientation="FORWARD" lat="42.24031935528595" lon="-96.98123909735814"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="124" index="28" type="NORMAL" orientation="FORWARD" lat="42.24061288080915" lon="-96.98071432720612"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="127" index="29" type="NORMAL" orientation="FORWARD" lat="42.24086690312910" lon="-96.98024459645499"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="128" index="30" type="NORMAL" orientation="FORWARD" lat="42.24121299938669" lon="-96.97959992766125"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="131" index="31" type="NORMAL" orientation="FORWARD" lat="42.24237012172375" lon="-96.97748400812272"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="132" index="37" type="NORMAL" orientation="FORWARD" lat="42.24250925571129" lon="-96.97729047819256"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="114" index="23" type="NORMAL" orientation="FORWARD" lat="42.24285485442761" lon="-96.98144009527554"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="134" index="38" type="NORMAL" orientation="FORWARD" lat="42.24291554863240" lon="-96.97767694873404"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="133" index="32" type="HOLD_SHORT" orientation="FORWARD" lat="42.24271568469457" lon="-96.97748872422298"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="139" index="33" type="NORMAL" orientation="FORWARD" lat="42.24298331980230" lon="-96.97774606947442"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="113" index="22" type="NORMAL" orientation="FORWARD" lat="42.24862175952989" lon="-96.98122255683184"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="107" index="34" type="NORMAL" orientation="REVERSE" lat="42.24892466429587" lon="-96.98118146300187"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="103" index="20" type="NORMAL" orientation="FORWARD" lat="42.24894232651979" lon="-96.98015803048440"/>
-		<TaxiwayPoint parentGroupID="41" groupIndex="104" index="39" type="NORMAL" orientation="FORWARD" lat="42.24895158775206" lon="-96.98031591216041"/>
 		<TaxiwayPoint parentGroupID="41" groupIndex="105" index="35" type="NORMAL" orientation="REVERSE" lat="42.24896540715714" lon="-96.98101918687219"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="94" index="36" type="NORMAL" orientation="FORWARD" lat="42.23753593994631" lon="-96.98071518265726"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="132" index="37" type="NORMAL" orientation="FORWARD" lat="42.24250925571129" lon="-96.97729047819256"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="134" index="38" type="NORMAL" orientation="FORWARD" lat="42.24291554863240" lon="-96.97767694873404"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="104" index="39" type="NORMAL" orientation="FORWARD" lat="42.24895158775206" lon="-96.98031591216041"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="39" index="40" type="NORMAL" orientation="FORWARD" lat="42.23699643633276" lon="-96.98650850158241"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="51" index="41" type="HOLD_SHORT" orientation="REVERSE" lat="42.23687389771556" lon="-96.98581921052848"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="50" index="42" type="NORMAL" orientation="FORWARD" lat="42.23704546003216" lon="-96.98581673361663"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="53" index="43" type="NORMAL" orientation="FORWARD" lat="42.23634625926269" lon="-96.98582327175124"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="54" index="44" type="NORMAL" orientation="FORWARD" lat="42.23704032656013" lon="-96.98532756080046"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="58" index="45" type="HOLD_SHORT" orientation="REVERSE" lat="42.23687164827811" lon="-96.98533041175344"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="63" index="46" type="NORMAL" orientation="FORWARD" lat="42.23626777855289" lon="-96.98534005776030"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="71" index="47" type="NORMAL" orientation="FORWARD" lat="42.23703897577006" lon="-96.98485863954120"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="74" index="48" type="HOLD_SHORT" orientation="REVERSE" lat="42.23687012424733" lon="-96.98485868318978"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="75" index="49" type="NORMAL" orientation="FORWARD" lat="42.23659839389977" lon="-96.98486588709746"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="83" index="50" type="NORMAL" orientation="FORWARD" lat="42.23743798396985" lon="-96.98354317787610"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="84" index="51" type="NORMAL" orientation="FORWARD" lat="42.23728559665087" lon="-96.98352293545389"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="87" index="52" type="NORMAL" orientation="FORWARD" lat="42.23666536333097" lon="-96.98354430775947"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="40" index="53" type="NORMAL" orientation="FORWARD" lat="42.23687697375378" lon="-96.98650853632280"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="47" index="61" type="NORMAL" orientation="FORWARD" lat="42.23640854934613" lon="-96.98651148474187"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="42" index="62" type="NORMAL" orientation="FORWARD" lat="42.23672997436788" lon="-96.98651001053233"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="41" index="63" type="NORMAL" orientation="FORWARD" lat="42.23657453124697" lon="-96.98651074763710"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="33" index="64" type="NORMAL" orientation="FORWARD" lat="42.23709490486531" lon="-96.98703592929361"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="59" index="69" type="NORMAL" orientation="REVERSE" lat="42.23646626862836" lon="-96.98533523475687"/>
+		<TaxiwayPoint parentGroupID="41" groupIndex="52" index="72" type="NORMAL" orientation="REVERSE" lat="42.23655012255944" lon="-96.98582124113985"/>
 		<TaxiwayParking parentGroupID="45" index="54" type="RAMP_GA_MEDIUM" lat="42.23640866471622" lon="-96.98631096307527" heading="93.630051" radius="10.000000" name="S_PARKING" number="7" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="1" index="55" type="RAMP_GA_SMALL" lat="42.23641521864982" lon="-96.98680842794124" heading="-88.268715" radius="6.000000" name="S_PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="8" index="68" type="RAMP_GA_SMALL" lat="42.23646543589474" lon="-96.98524281632761" heading="90.694664" radius="6.000000" name="S_PARKING" number="10" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="5" index="67" type="RAMP_GA_SMALL" lat="42.23620765230478" lon="-96.98534053371401" heading="-179.662964" radius="6.000000" name="S_PARKING" number="11" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="6" index="70" type="RAMP_GA_SMALL" lat="42.23624031716688" lon="-96.98582122158196" heading="178.731308" radius="6.000000" name="S_PARKING" number="12" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="7" index="71" type="RAMP_GA_SMALL" lat="42.23654896142421" lon="-96.98573205068740" heading="91.003639" radius="6.000000" name="S_PARKING" number="13" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="9" index="56" type="RAMP_GA_SMALL" lat="42.23657410623683" lon="-96.98680842794126" heading="-89.756920" radius="6.000000" name="S_PARKING" number="2" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="11" index="58" type="RAMP_GA_SMALL" lat="42.23688944756933" lon="-96.98680842794126" heading="-86.796188" radius="6.000000" name="S_PARKING" number="3" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="1" index="55" type="RAMP_GA_SMALL" lat="42.23641521864982" lon="-96.98680842794124" heading="271.731293" radius="6.000000" name="S_PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="9" index="56" type="RAMP_GA_SMALL" lat="42.23657410623683" lon="-96.98680842794126" heading="270.243073" radius="6.000000" name="S_PARKING" number="2" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="10" index="57" type="RAMP_GA_SMALL" lat="42.23673241736826" lon="-96.98680842794126" heading="270.585175" radius="6.000000" name="S_PARKING" number="6" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="11" index="58" type="RAMP_GA_SMALL" lat="42.23688944756933" lon="-96.98680842794126" heading="273.203827" radius="6.000000" name="S_PARKING" number="3" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="45" groupIndex="12" index="59" type="RAMP_GA_SMALL" lat="42.23688462447958" lon="-96.98703465139053" heading="179.673141" radius="6.000000" name="S_PARKING" number="4" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="45" groupIndex="13" index="60" type="RAMP_GA_SMALL" lat="42.23688462441636" lon="-96.98722726396468" heading="179.449982" radius="6.000000" name="S_PARKING" number="5" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="10" index="57" type="RAMP_GA_SMALL" lat="42.23673241736826" lon="-96.98680842794126" heading="-89.414833" radius="6.000000" name="S_PARKING" number="6" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="3" index="65" type="RAMP_GA_SMALL" lat="42.23659347793985" lon="-96.98354463693536" heading="-179.805038" radius="6.000000" name="S_PARKING" number="8" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="45" groupIndex="4" index="66" type="RAMP_GA_SMALL" lat="42.23649293065507" lon="-96.98486719849170" heading="-179.470581" radius="6.000000" name="S_PARKING" number="9" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="3" index="65" type="RAMP_GA_SMALL" lat="42.23659347793985" lon="-96.98354463693536" heading="180.194962" radius="6.000000" name="S_PARKING" number="8" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="4" index="66" type="RAMP_GA_SMALL" lat="42.23649293065507" lon="-96.98486719849170" heading="180.529419" radius="6.000000" name="S_PARKING" number="9" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="5" index="67" type="RAMP_GA_SMALL" lat="42.23620765230478" lon="-96.98534053371401" heading="180.337036" radius="6.000000" name="S_PARKING" number="11" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="8" index="68" type="RAMP_GA_SMALL" lat="42.23646543589474" lon="-96.98524281632761" heading="90.694664" radius="6.000000" name="S_PARKING" number="10" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="6" index="70" type="RAMP_GA_SMALL" lat="42.23624031716688" lon="-96.98582122158196" heading="178.731308" radius="6.000000" name="S_PARKING" number="12" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="45" groupIndex="7" index="71" type="RAMP_GA_SMALL" lat="42.23654896142421" lon="-96.98573205068740" heading="91.003639" radius="6.000000" name="S_PARKING" number="13" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiwayPath parentGroupID="41" groupIndex="12" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" centerLineLighted="TRUE" start="61" end="54" width="10.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="41" groupIndex="11" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" centerLineLighted="TRUE" start="61" end="55" width="10.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
