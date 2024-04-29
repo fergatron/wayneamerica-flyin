@@ -7,5 +7,6 @@ Added polygons to match/hide grass</ReleaseNote>
 	<ReleaseNote Version="0.3.0" Date="2024-4-20">Added more scenery for gates, airplanes, and vehicles.</ReleaseNote>
 	<ReleaseNote Version="0.2.0" Date="2024-4-19">Added more structure to the STOL runway.
 Began to add third-party objects.</ReleaseNote>
+	<ReleaseNote Version="0.4.0" Date="2024-4-28">Added taxiways, runways and aprons.</ReleaseNote>
 </ReleaseNotes>
 
