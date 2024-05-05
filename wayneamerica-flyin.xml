@@ -5,7 +5,6 @@
 	<PublishingGroupTemporaryOutputDirectory>_PublishingGroupInt</PublishingGroupTemporaryOutputDirectory>
 	<Packages>
 		<Package>PackageDefinitions\tabletopandroid-airport-klcg-wayne.xml</Package>
-		<Package>PackageDefinitions\tabletopandroid-android-modellib.xml</Package>
 	</Packages>
 	<PublishingGroups/>
 </Project>

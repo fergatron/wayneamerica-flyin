@@ -16,8 +16,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\tabletopandroid-airport-klcg-wayne\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="android-modellib">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\android-modellib\</AssetDir>
+			<OutputDir>Scenery\android-modellib\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
