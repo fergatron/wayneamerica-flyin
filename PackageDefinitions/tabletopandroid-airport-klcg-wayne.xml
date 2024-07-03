@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-klcg-wayne\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\tabletopandroid-airport-klcg-wayne\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="android-modellib">
